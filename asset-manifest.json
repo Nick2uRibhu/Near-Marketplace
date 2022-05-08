@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Near-Marketplace/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Near-Marketplace/static/js/main.d83581a0.chunk.js",
+    "main.js.map": "/Near-Marketplace/static/js/main.d83581a0.chunk.js.map",
+    "runtime-main.js": "/Near-Marketplace/static/js/runtime-main.ec08dc8b.js",
+    "runtime-main.js.map": "/Near-Marketplace/static/js/runtime-main.ec08dc8b.js.map",
+    "static/css/2.2bb116d9.chunk.css": "/Near-Marketplace/static/css/2.2bb116d9.chunk.css",
+    "static/js/2.faab04a2.chunk.js": "/Near-Marketplace/static/js/2.faab04a2.chunk.js",
+    "static/js/2.faab04a2.chunk.js.map": "/Near-Marketplace/static/js/2.faab04a2.chunk.js.map",
+    "static/js/3.fbf7c495.chunk.js": "/Near-Marketplace/static/js/3.fbf7c495.chunk.js",
+    "static/js/3.fbf7c495.chunk.js.map": "/Near-Marketplace/static/js/3.fbf7c495.chunk.js.map",
+    "index.html": "/Near-Marketplace/index.html",
+    "static/css/2.2bb116d9.chunk.css.map": "/Near-Marketplace/static/css/2.2bb116d9.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/Near-Marketplace/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.faab04a2.chunk.js.LICENSE.txt": "/Near-Marketplace/static/js/2.faab04a2.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Near-Marketplace/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/sandwich.2d312449.jpg": "/Near-Marketplace/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec08dc8b.js",
+    "static/css/2.2bb116d9.chunk.css",
+    "static/js/2.faab04a2.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.d83581a0.chunk.js"
+  ]
+}
